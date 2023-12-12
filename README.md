@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @moderateblue
 - 👀 I’m interested in artificial intelligence, human cognition, logic, math, and anything that will take humanity to the next level
 - 🌱 I’m currently familiarizing myself with the many types of machine learning algorithms
+- 💻 I enjoy competitive programming (still a beginner)
 - 💞️ I’m looking to collaborate on anything in my areas of interest
 - 📫 How to reach me: idk 💀
 
