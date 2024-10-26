@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moderateblue, a CS student
+- 👋 Hi, I’m @moderateblue, a CS & Cog Sci student
 - 👀 I’m interested in artificial intelligence, human cognition, logic, math, and anything that will take humanity to the next level
 - 🌱 I’m currently familiarizing myself with the many types of machine learning algorithms
 - 💻 I enjoy competitive programming (still a beginner)
