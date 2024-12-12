@@ -11,8 +11,8 @@ made with the default GitHub readme lol
 
 ### My 
 - [CodeChef](https://www.codechef.com/users/bingchilling)<br>
-- [Codewars](https://www.codewars.com/users/moderateblue)<br>
-- [LeetCode](https://leetcode.com/moderatelybluz/)<br>
+- [Codewars](https://www.codewars.com/users/6yinyang)<br>
+- [LeetCode](https://leetcode.com/6yinyang/)<br>
 - [Codeforces](https://codeforces.com/profile/moderateblue)<br>
 
 <!---
