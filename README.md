@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @6yinyang, a CS & Cog Sci student
-- 👀 I’m interested in AI, human cognition, logic, math, music, and anything that will take humanity to the next level (and some game development/design)
-- 🌱 I’m currently familiarizing myself with the many types of machine learning algorithms
-- 💻 I enjoy competitive programming (still a beginner)
+- 👀 I’m interested in AI, human cognition, logic, math, music, and some game development/design
+- 🌱 I’m currently rethinking life choices
+- 💻 I enjoy not rethinking life choices
 - 💞️ I’m looking to collaborate on anything in my areas of interest
 - 📫 How to reach me: idk 💀
 
