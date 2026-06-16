@@ -3,7 +3,7 @@
 - 🌱 I’m currently rethinking life choices
 - 💻 I enjoy not rethinking life choices
 - 💞️ I’m looking to collaborate on anything in my areas of interest
-- 📫 How to reach me: idk 💀
+- 📫 How to reach me: st2255\[at\]cornell\[dot\]edu
 
 made with the default GitHub readme lol
 
@@ -16,6 +16,6 @@ made with the default GitHub readme lol
 - [Codeforces](https://codeforces.com/profile/moderateblue)<br>
 
 <!---
-moderateblue/moderateblue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+6yinyang/6yinyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
